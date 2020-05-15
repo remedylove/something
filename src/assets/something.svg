@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-something">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="something" clip-path="url(#clip-something)">
+    <rect width="1920" height="1080" fill="#f2f2f2"/>
+    <text id="something." transform="matrix(0.914, -0.407, 0.407, 0.914, -120.393, 425.737)" fill="#fff" font-size="500" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">something.</tspan></text>
+    <text id="something.-2" data-name="something." transform="matrix(0.914, -0.407, 0.407, 0.914, -120.393, 1136.737)" fill="#fff" font-size="500" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">something.</tspan></text>
+    <text id="something.-3" data-name="something." transform="matrix(0.914, -0.407, 0.407, 0.914, -120.393, 425.737)" fill="#fff" font-size="500" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">something.</tspan></text>
+    <text id="something.-4" data-name="something." transform="matrix(0.914, -0.407, 0.407, 0.914, -120.393, 1847.737)" fill="#fff" font-size="500" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">something.</tspan></text>
+  </g>
+</svg>
